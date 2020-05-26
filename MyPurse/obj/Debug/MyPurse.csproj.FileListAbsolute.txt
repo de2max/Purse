@@ -1,0 +1,7 @@
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\MyPurse.exe.config
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\MyPurse.exe
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\MyPurse.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.csprojAssemblyReference.cache
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.csproj.CoreCompileInputs.cache
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.exe
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.pdb
