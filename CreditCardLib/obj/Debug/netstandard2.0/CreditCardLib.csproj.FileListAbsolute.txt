@@ -1,0 +1,9 @@
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\bin\Debug\netstandard2.0\CreditCardLib.deps.json
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\bin\Debug\netstandard2.0\CreditCardLib.dll
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\bin\Debug\netstandard2.0\CreditCardLib.pdb
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\obj\Debug\netstandard2.0\CreditCardLib.csprojAssemblyReference.cache
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\obj\Debug\netstandard2.0\CreditCardLib.csproj.CoreCompileInputs.cache
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\obj\Debug\netstandard2.0\CreditCardLib.AssemblyInfoInputs.cache
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\obj\Debug\netstandard2.0\CreditCardLib.AssemblyInfo.cs
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\obj\Debug\netstandard2.0\CreditCardLib.dll
+C:\Users\ira\Documents\GitHub\Purse\CreditCardLib\obj\Debug\netstandard2.0\CreditCardLib.pdb
