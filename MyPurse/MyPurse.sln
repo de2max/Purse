@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPurse", "MyPurse.csproj", "{FF407C02-BD7C-432B-8969-D5E18394C472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessCard", "..\BuisnessCard\BuisnessCard.csproj", "{A77B7D4B-0172-4612-8BC7-9499EB50C848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FF407C02-BD7C-432B-8969-D5E18394C472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF407C02-BD7C-432B-8969-D5E18394C472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF407C02-BD7C-432B-8969-D5E18394C472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77B7D4B-0172-4612-8BC7-9499EB50C848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77B7D4B-0172-4612-8BC7-9499EB50C848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77B7D4B-0172-4612-8BC7-9499EB50C848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77B7D4B-0172-4612-8BC7-9499EB50C848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

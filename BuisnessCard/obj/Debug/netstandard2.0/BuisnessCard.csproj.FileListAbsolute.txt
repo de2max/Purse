@@ -1,0 +1,8 @@
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\bin\Debug\netstandard2.0\BuisnessCard.deps.json
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\bin\Debug\netstandard2.0\BuisnessCard.dll
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\bin\Debug\netstandard2.0\BuisnessCard.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.csproj.CoreCompileInputs.cache
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.AssemblyInfoInputs.cache
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.AssemblyInfo.cs
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.dll
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.pdb

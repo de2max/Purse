@@ -5,3 +5,6 @@ C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.csprojAssem
 C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.csproj.CoreCompileInputs.cache
 C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.exe
 C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\BuisnessCard.dll
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\BuisnessCard.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.csproj.CopyComplete
