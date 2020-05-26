@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LOE0a+4WyCB7rVUCNt7zBgF8reM+9L1ezsWoCLfIWXNPD76khBl2DFcdslFvCFim7exDXYoCt6BKraig/DIcQg==",
+  "dgSpecHash": "JC1YbhHiDPmk0Qpan5E0u8fT/7pUZk6jcjG/EN/TQS7M04GA8cdtvKmEvfn4AZ1LiqEBNiPHJAyExN+YiM2Lyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ira\\Documents\\GitHub\\Purse\\Money\\Money.csproj",
+  "projectFilePath": "C:\\Users\\ira\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
