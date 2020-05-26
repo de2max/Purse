@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using MoneyLib;
 using CreditCardLib;
-
 using BuisnessCardLib;
 
 namespace MyPurse
@@ -14,14 +13,16 @@ namespace MyPurse
     {
         static void Main(string[] args)
         {
-            Money sum = new Money(100.00);
-            Console.WriteLine(sum.info());
+
+            BuisnessCard bcard = new BuisnessCard(101);
+            Console.WriteLine(bcard.info());
+
 
             CreditCard cCard = new CreditCard(10123130);
             Console.WriteLine(cCard.info());
 
-            BuisnessCard bcard = new BuisnessCard(101);
-            Console.WriteLine(bcard.info());
+            Money sum = new Money(100.00);
+            Console.WriteLine(sum.info());
 
             Console.ReadKey();
         }
