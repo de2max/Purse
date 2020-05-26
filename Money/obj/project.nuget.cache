@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cx3JSaaxguBjq8TFWP4C8n2GkNO+9aO0nhJpUHjCX1dDKoSVqqFceUMFhNtpa5i5pGOOim0I88OpPvZl79gM0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdemyanyuk\\Documents\\GitHub\\Purse\\Money\\Money.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdemyanyuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mdemyanyuk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
