@@ -14,14 +14,14 @@ namespace MyPurse
         static void Main(string[] args)
         {
 
-            BuisnessCard bcard = new BuisnessCard(101);
+            BuisnessCard buisnessCard = new BuisnessCard(3333);
             Console.WriteLine(bcard.info());
 
 
-            CreditCard cCard = new CreditCard(10123130);
-            Console.WriteLine(cCard.info());
+            CreditCard creditCard = new CreditCard(12312);
+            Console.WriteLine(creditCard.info());
 
-            Money sum = new Money(100.00);
+            Money sum = new Money(102.45);
             Console.WriteLine(sum.info());
 
             Console.ReadKey();
