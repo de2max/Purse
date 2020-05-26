@@ -15,7 +15,7 @@ namespace MyPurse
         {
 
             BuisnessCard buisnessCard = new BuisnessCard(3333);
-            Console.WriteLine(bcard.info());
+            Console.WriteLine(buisnessCard.info());
 
 
             CreditCard creditCard = new CreditCard(12312);
