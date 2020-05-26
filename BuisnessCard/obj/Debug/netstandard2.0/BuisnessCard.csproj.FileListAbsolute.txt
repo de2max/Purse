@@ -15,3 +15,4 @@ C:\Users\ira\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\Buisne
 C:\Users\ira\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.AssemblyInfo.cs
 C:\Users\ira\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.dll
 C:\Users\ira\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\BuisnessCard\obj\Debug\netstandard2.0\BuisnessCard.csprojAssemblyReference.cache

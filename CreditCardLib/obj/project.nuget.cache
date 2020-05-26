@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JC1YbhHiDPmk0Qpan5E0u8fT/7pUZk6jcjG/EN/TQS7M04GA8cdtvKmEvfn4AZ1LiqEBNiPHJAyExN+YiM2Lyw==",
+  "dgSpecHash": "3uvMWQsu1yXqKTIic2X0O4wCh2USlmES/JoygCa9NoHgeUDP3m1JYBa1gyANmZnGjlv4ob2Lb/HVI6tL9CnzjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ira\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
+  "projectFilePath": "C:\\Users\\mdemyanyuk\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ira\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\mdemyanyuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mdemyanyuk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

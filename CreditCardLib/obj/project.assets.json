@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ira\\.nuget\\packages\\": {}
+    "C:\\Users\\mdemyanyuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ira\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
+      "projectUniqueName": "C:\\Users\\mdemyanyuk\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
       "projectName": "CreditCardLib",
-      "projectPath": "C:\\Users\\ira\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
-      "packagesPath": "C:\\Users\\ira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ira\\Documents\\GitHub\\Purse\\CreditCardLib\\obj\\",
+      "projectPath": "C:\\Users\\mdemyanyuk\\Documents\\GitHub\\Purse\\CreditCardLib\\CreditCardLib.csproj",
+      "packagesPath": "C:\\Users\\mdemyanyuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mdemyanyuk\\Documents\\GitHub\\Purse\\CreditCardLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mdemyanyuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
