@@ -20,3 +20,7 @@ C:\Users\ira\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.exe
 C:\Users\ira\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.pdb
 C:\Users\ira\Documents\GitHub\Purse\MyPurse\bin\Debug\CreditCardLib.dll
 C:\Users\ira\Documents\GitHub\Purse\MyPurse\bin\Debug\CreditCardLib.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\BuisnessCard.dll
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\bin\Debug\BuisnessCard.pdb
+C:\Users\mdemyanyuk\Documents\GitHub\Purse\MyPurse\obj\Debug\MyPurse.csproj.CopyComplete
+

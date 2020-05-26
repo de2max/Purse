@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using MoneyLib;
 using CreditCardLib;
 
+using BuisnessCardLib;
 
 namespace MyPurse
 {
@@ -18,6 +19,9 @@ namespace MyPurse
 
             CreditCard cCard = new CreditCard(10123130);
             Console.WriteLine(cCard.info());
+            BuisnessCard bcard = new BuisnessCard(101);
+
+            Console.WriteLine(bcard.info());
 
             Console.ReadKey();
         }
