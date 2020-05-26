@@ -1,0 +1,17 @@
+
+*.cache
+MyPurse/obj/Debug/MyPurse.pdb
+MyPurse/obj/Debug/MyPurse.exe
+MyPurse/obj/Debug/MyPurse.csproj.FileListAbsolute.txt
+MyPurse/bin/Debug/MyPurse.pdb
+MyPurse/bin/Debug/MyPurse.exe
+MyPurse/.vs/MyPurse/v16/.suo
+MyPurse/.vs/MyPurse/DesignTimeBuild/.dtbcache.v2
+BuisnessCard/obj/project.nuget.cache
+BuisnessCard/obj/project.assets.json
+BuisnessCard/obj/Debug/netstandard2.0/BuisnessCard.pdb
+BuisnessCard/obj/Debug/netstandard2.0/BuisnessCard.dll
+BuisnessCard/obj/BuisnessCard.csproj.nuget.g.props
+BuisnessCard/obj/BuisnessCard.csproj.nuget.dgspec.json
+BuisnessCard/bin/Debug/netstandard2.0/BuisnessCard.pdb
+BuisnessCard/bin/Debug/netstandard2.0/BuisnessCard.dll

@@ -57,6 +57,7 @@
     <ProjectReference Include="..\Money\Money.csproj">
       <Project>{193e9c9a-774f-4fd6-8cc9-42aa88e3b98b}</Project>
       <Name>Money</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BuisnessCard\BuisnessCard.csproj">
       <Project>{a77b7d4b-0172-4612-8bc7-9499eb50c848}</Project>
       <Name>BuisnessCard</Name>
